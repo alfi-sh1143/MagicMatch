@@ -1,0 +1,6 @@
+{
+  "name": "MagicMatch Booth",
+  "description": "A physical photo booth matchmaking experience. Take a picture, meet your vibe, and print your strip.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
